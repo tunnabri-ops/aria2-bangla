@@ -1,8 +1,6 @@
 # aria2 Bangla — হালকা ও শক্তিশালী ডাউনলোডার
 
-Bangla-ready aria2 setup, built on **aria2/aria2**.
-
-- **Original repo:** https://github.com/aria2/aria2 (হালকা কমান্ড-লাইন ডাউনলোড ইউটিলিটি — HTTP/HTTPS, FTP, BitTorrent, Metalink; এক ফাইল অনেক ভাগে ভাগ করে নামায়)
+Bangla-ready aria2 setup.
 
 ## কী আছে / What is inside
 
@@ -12,8 +10,8 @@ Bangla-ready aria2 setup, built on **aria2/aria2**.
 
 ## যা ঠিক করা হয়েছে / What was fixed
 
-- Upstream-এর ম্যানুয়াল বিশাল — কোন অপশনটা আসলে লাগে, বোঝা কঠিন। এই কনফিগে শুধু দরকারি অপশনগুলোই আছে, Bangla কমেন্টসহ।
-- Upstream-এ কোনো রেডি কনফিগ বা ব্যাচ স্ক্রিপ্ট নেই — এখানে দুটোই আছে, ভিডিও/অডিও আলাদা প্রিসেটসহ।
+- ম্যানুয়াল বিশাল — কোন অপশনটা আসলে লাগে, বোঝা কঠিন। এই কনফিগে শুধু দরকারি অপশনগুলোই আছে, Bangla কমেন্টসহ।
+- কোনো রেডি কনফিগ বা ব্যাচ স্ক্রিপ্ট নেই — এখানে দুটোই আছে, ভিডিও/অডিও আলাদা প্রিসেটসহ।
 
 ## ব্যবহার / How to use
 
