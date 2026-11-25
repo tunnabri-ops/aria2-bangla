@@ -1,0 +1,19 @@
+# example-urls.txt — aria2 পরীক্ষার জন্য পাবলিক ফাইল
+# ব্যবহার: aria2c --conf-path=aria2.conf -i example-urls.txt
+#       অথবা: bash download-bangla.sh batch example-urls.txt
+#
+# সব URL ২০২৬-১১-২৫-এ যাচাই করা (HTTP 200, পুরো ফাইল ডাউনলোড করে দেখা)।
+# এগুলো শুধু aria2 ঠিকমতো কাজ করছে কি না পরীক্ষার জন্য — স্পিড টেস্ট আর
+# ছোট স্যাম্পল ফাইল। কোনো কপিরাইট করা কনটেন্ট নয়।
+
+# Hetzner স্পিড টেস্ট ফাইল — ১০০ MB (সবচেয়ে ভালো গতি পরীক্ষা)
+https://ash-speed.hetzner.com/100MB.bin
+
+# OVH স্পিড টেস্ট ফাইল — ১০ MB
+https://proof.ovh.net/files/10Mb.dat
+
+# Cloudflare স্পিড টেস্ট — ১ MB (দ্রুত পরীক্ষা)
+https://speed.cloudflare.com/__down?bytes=1000000
+
+# ছোট স্যাম্পল ভিডিও (MP4, ৫ সেকেন্ড)
+https://download.samplelib.com/mp4/sample-5s.mp4
